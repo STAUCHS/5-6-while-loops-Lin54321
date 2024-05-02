@@ -6,3 +6,4 @@ guess = int(input("Enter guess: "))
 
 while guess != my_num:
   print("Sorry, wrong number")
+  guess = int(input("Enter guess: "))
